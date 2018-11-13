@@ -1,4 +1,4 @@
-## Allows a way to defile Express rules. Properties from both req and res could be mentioned as keys.
+## Allows a way to define Express rules. Properties from both req and res could be mentioned as keys.
 
 ```
 require('honeycomb-beeline')({
